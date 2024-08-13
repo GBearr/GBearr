@@ -6,7 +6,7 @@
 - 📫 Bana ulaşın: [muhammedmuratc@gmail.com](mailto:muhammedmuratc@gmail.com)
 
 ### Teknolojiler ve Araçlar
-- HTML, CSS, JavaScript, React
+- HTML, CSS, JavaScript, React, React Native
 - Material UI, Git, GitHub
 
 ### İstatistikler
